@@ -1,4 +1,6 @@
-# devcircle2020
+# Elaborado por: Danny Chavez
+# Versión en Español.
+# Developer Circles Community Challenge 2020
 
 # Tutorial paso a paso sobre como crear un sitio web dinámico utilizando Docusaurus versión 1.14.6 
 ![Docusaurus_logo](https://docusaurus.io/img/docusaurus_keytar.svg)
