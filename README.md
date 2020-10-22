@@ -1,4 +1,3 @@
-# devcircle2020
 
 # Tutorial paso a paso sobre como crear un sitio web dinámico utilizando Docusaurus versión 1.14.6 
 Elaborado por: **Danny Chávez** <br>
