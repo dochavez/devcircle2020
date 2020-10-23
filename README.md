@@ -78,5 +78,5 @@ Elaborado por: **Danny Chávez** <br>
 
 ![de local host a github](https://github.com/dochavez/devcircle2020/blob/main/publicacion.jpg)
 
-3.Finalmente, deberas ejecutar la siguiente instruccion en la misma terminal: **GIT_USER=USERNAME CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages** en caso que vayas acceder usando **SSH** o puede usar **GIT_USER=USERNAME CURRENT_BRANCH=master npm run publish-gh-pages** si quieres usar el protocolo **HTTPS**.
+3.Finalmente, deberas ejecutar la siguiente instruccion en la misma terminal: **GIT_USER=USERNAME CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages** en caso que vayas acceder usando **SSH** o puede usar **GIT_USER=USERNAME CURRENT_BRANCH=master npm run publish-gh-pages** si quieres usar el protocolo **HTTPS**.<br>
 4. Toma en cuenta que la palabra **USERNAME** debera de ser reemplazada por el usuario que usas para ingresar a tu cuenta de **github**.
